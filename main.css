@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding; 0px;
+}
+.song{
+  margin: auto;
+  width: 90%;
+  text-align: center;
+  padding: 3vw;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 3vw;
+}
+.song_title{
+  color: red;
+  font-weight: bold;
+}
